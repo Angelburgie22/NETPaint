@@ -1,0 +1,10 @@
+C:\Users\cheez\Desktop\NETPaint\bin\Debug\NETPaint.exe.config
+C:\Users\cheez\Desktop\NETPaint\bin\Debug\NETPaint.exe
+C:\Users\cheez\Desktop\NETPaint\bin\Debug\NETPaint.pdb
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.csproj.AssemblyReference.cache
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.Form1.resources
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.Properties.Resources.resources
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.csproj.GenerateResource.cache
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.csproj.CoreCompileInputs.cache
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.exe
+C:\Users\cheez\Desktop\NETPaint\obj\Debug\NETPaint.pdb
